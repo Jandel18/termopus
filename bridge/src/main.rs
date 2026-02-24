@@ -1,4 +1,3 @@
-// Termopus Bridge — sync pipeline test
 use anyhow::Result;
 use clap::Parser;
 use std::sync::Arc;
