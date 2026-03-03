@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.3 (2026-03-03)
+
+- fix: add libxdo-dev to Linux build dependencies (8ea3100)
+
+
 ## v0.1.2 (2026-03-03)
 
 - docs: update macOS download reference to DMG (776deee)
