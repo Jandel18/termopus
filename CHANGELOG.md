@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.1.5 (2026-03-03)
+
+- Sync from private repo (#4) (fd212ee)
+- docs: mention first-run relay URL prompt for macOS/Windows (0df22f9)
+- chore: remove private repo release workflow (leaked through sync) (a6c4a00)
+- docs: add PowerShell setup command for Windows (ea2486f)
+
+
 ## v0.1.4 (2026-03-03)
 
 - Sync from private repo (#3) (1b1a8c9)
