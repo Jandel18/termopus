@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.6 (2026-03-03)
+
+- Sync from private repo (#5) (127f905)
+- docs: make Cloudflare requirement more prominent for OSS users (ac305de)
+
+
 ## v0.1.5 (2026-03-03)
 
 - Sync from private repo (#4) (fd212ee)
