@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.4 (2026-03-03)
+
+- Sync from private repo (#3) (1b1a8c9)
+
+
 ## v0.1.3 (2026-03-03)
 
 - fix: add libxdo-dev to Linux build dependencies (8ea3100)
