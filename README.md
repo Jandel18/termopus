@@ -146,14 +146,14 @@ Download the latest release for your platform from the [Releases page](https://g
 | Windows (x86_64) | `Termopus-vX.Y.Z-windows-x86_64.msi` |
 | Linux (x86_64) | `Termopus-vX.Y.Z-linux-x86_64.tar.gz` |
 
-For macOS, open the DMG and drag Termopus to Applications. For Linux, extract and run:
+For macOS, open the DMG and drag Termopus to Applications. For Windows, run the MSI installer and launch from the Start Menu. On first launch, you'll be prompted to enter your relay WebSocket URL (the `wss://` URL printed by `setup.sh`). The URL is saved automatically for future launches.
+
+For Linux, extract and run:
 
 ```bash
 tar -xzf Termopus-*.tar.gz
 ./Termopus-*/termopus --relay wss://YOUR_RELAY_WORKER_URL
 ```
-
-For Windows, run the MSI installer and launch Termopus from the Start Menu.
 
 **Option B: Build from source**
 
