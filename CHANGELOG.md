@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.8 (2026-03-03)
+
+- Sync from private repo (#7) (31b186f)
+
+
 ## v0.1.7 (2026-03-03)
 
 - Sync from private repo (#6) (89a58b5)
