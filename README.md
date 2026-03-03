@@ -134,11 +134,11 @@ Download the latest release for your platform from the [Releases page](https://g
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | `Termopus-vX.Y.Z-macos-arm64.tar.gz` |
+| macOS (Apple Silicon) | `Termopus-vX.Y.Z-macos-arm64.dmg` |
 | Windows (x86_64) | `Termopus-vX.Y.Z-windows-x86_64.msi` |
 | Linux (x86_64) | `Termopus-vX.Y.Z-linux-x86_64.tar.gz` |
 
-For macOS/Linux, extract and run:
+For macOS, open the DMG and drag Termopus to Applications. For Linux, extract and run:
 
 ```bash
 tar -xzf Termopus-*.tar.gz
