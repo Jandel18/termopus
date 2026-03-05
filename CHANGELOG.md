@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.1.8 (2026-03-05)
+
+- Merge pull request #10 from Termopus/sync/59cc913-20260305-124425 (110f5a4)
+- Sync from private repo (feea688)
+- chore: update CHANGELOG for v0.1.8 (20128ad)
+- Sync from private repo (#8) (f55b5bd)
+- chore: update CHANGELOG for v0.1.8 (06c74a5)
+- Sync from private repo (#7) (31b186f)
+
+
 ## v0.1.8 (2026-03-03)
 
 - Sync from private repo (#8) (f55b5bd)
